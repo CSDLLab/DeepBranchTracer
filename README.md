@@ -4,6 +4,11 @@ DeepBranchTracer is a novel method for reconstructing curvilinear structures fro
 
 
 
+# Usage
+
+It is recommended to use **neutube** software to visualize images and SWC files. **neutube** can be downloaded from https://neutracing.com/.
+
+
 
 # Citation
 If you found this project useful, you can kindly give us a star ⭐, or cite us in your work 📖:
